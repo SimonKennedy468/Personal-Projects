@@ -1,0 +1,6 @@
+C:\Users\Simon\Desktop\personal\personal programming\c#\calculator\calculator\bin\Debug\calculator.exe.config
+C:\Users\Simon\Desktop\personal\personal programming\c#\calculator\calculator\bin\Debug\calculator.exe
+C:\Users\Simon\Desktop\personal\personal programming\c#\calculator\calculator\bin\Debug\calculator.pdb
+C:\Users\Simon\Desktop\personal\personal programming\c#\calculator\calculator\obj\Debug\calculator.csprojAssemblyReference.cache
+C:\Users\Simon\Desktop\personal\personal programming\c#\calculator\calculator\obj\Debug\calculator.exe
+C:\Users\Simon\Desktop\personal\personal programming\c#\calculator\calculator\obj\Debug\calculator.pdb
